@@ -13,9 +13,6 @@ Theme imported from oh-my-zsh [ys-theme](http://blog.ysmood.org/my-ys-terminal-t
 <img src="https://raw.githubusercontent.com/aollio/ays-fish-theme/master/screenshot.png">
 </p>
 
-###### Added VirtualEnv Support
-![preview](http://i.imgur.com/fWurs47.png)
-
 
 #### Install
 
