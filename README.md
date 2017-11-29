@@ -22,7 +22,7 @@ Theme imported from oh-my-zsh [ys-theme](http://blog.ysmood.org/my-ys-terminal-t
 ##### [Oh-My-Fish]
 
 ```fish
-omf install lambda
+omf install ays
 ```
 
 [Oh-My-Fish]: https://github.com/oh-my-fish/oh-my-fish
