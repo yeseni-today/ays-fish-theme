@@ -8,7 +8,7 @@
 #### Screenshot
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hasanozgan/theme-lambda/master/screenshot.png">
+<img src="https://raw.githubusercontent.com/aollio/ays-fish-theme/master/screenshot.png">
 </p>
 
 ###### Added VirtualEnv Support
