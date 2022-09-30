@@ -56,10 +56,13 @@ function fish_prompt
   end 
   # Time
   set -l __time $white'['(date +%H:%M:%S)']'
-
-
+  # Root warning
+  set -l __user_color $blue
+  if test "$__fish_user" = "#"
+    set __user_color (set_color white -b red -o)
+  end
   # Line
-  echo -sne '\n'$purple$__fish_user' '$blue$USER$white \
+  echo -sne '\n'$purple$__fish_user' '$__user_color$USER$normal$white \
     ' @ '$green$__fish_prompt_hostname$white \
     ' in '$yellow$__work_dir$turquoise \
     (__fish_git_prompt) \
